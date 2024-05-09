@@ -1,4 +1,5 @@
 ### Hi, I'm Eli
+(she/her, ona/její)
 
 Librarian, SW architect, programmer
 
