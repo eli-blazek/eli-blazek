@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Eli
+
+Librarian, SW architect, programmer
+
+Main languages are Python and PHP, but I am learning to slowly oxidize my workflow 🦀 🦀 🦀
 
 <!--
 **eli-blazek/eli-blazek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
